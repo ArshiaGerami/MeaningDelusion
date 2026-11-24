@@ -1,0 +1,1 @@
+Replace book-cover.png with your uploaded cover image. Upload all files to GitHub Pages.
