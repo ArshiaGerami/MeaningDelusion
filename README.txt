@@ -1,1 +1,1 @@
-Replace book-cover.png with your uploaded cover image. Upload all files to GitHub Pages.
+Copy your uploaded cover image into this folder as book-cover.jpeg and upload all files to GitHub repository root.
